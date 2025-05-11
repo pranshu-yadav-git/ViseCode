@@ -38,12 +38,6 @@ We welcome contributions! Feel free to fork this repo, submit issues, or open pu
 
 ---
 
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for more information.
-
----
-
 ## 🧠 Powered By
 
 - **Gemini AI** by Google
